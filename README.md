@@ -7,7 +7,7 @@ The rules are all the same as blackjack using simple buttons that let you hit or
 The program, when run, will play a single game of blackjack.
 
 
-As of version 1.0, it is pretty bare-bones
+As of version 1.0:
 - The game UI is ugly
 - It will sometimes start a new game immediately after the first one ends
 - The lines describing the game and its outcome are only shown in the command line
